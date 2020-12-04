@@ -1,7 +1,7 @@
 from __future__ import absolute_import, unicode_literals
 
 from django.dispatch import receiver
-from wagtail.wagtaildocs.models import document_served
+from wagtail.documents.models import document_served
 
 from downloadcounter.models import DownloadCount
 
