@@ -25,3 +25,4 @@ share/
 
 coverage.xml
 db.sqlite3
+.vscode
